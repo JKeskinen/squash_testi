@@ -2,3 +2,4 @@
 
 print("Koodi alkaa tästä")
 
+print("Tässä on tehty vscodella gitti")
